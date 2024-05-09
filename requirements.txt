@@ -1,0 +1,36 @@
+blendmodes
+# accelerate
+basicsr
+fonts
+font-roboto
+gfpgan
+gradio
+invisible-watermark
+numpy
+omegaconf
+opencv-contrib-python
+requests
+piexif
+Pillow
+pytorch_lightning==1.7.7
+realesrgan
+scikit-image>=0.19
+timm==0.4.12
+transformers==4.25.1
+# diffusers==0.26.3
+# transformers==4.38.1
+# accelerate==0.27.2
+torch
+einops
+jsonmerge
+clean-fid
+resize-right
+torchdiffeq
+kornia
+lark
+inflection
+GitPython
+torchsde
+safetensors
+psutil
+rich
